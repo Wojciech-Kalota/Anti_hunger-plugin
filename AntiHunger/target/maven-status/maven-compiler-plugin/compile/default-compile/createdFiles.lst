@@ -1,0 +1,3 @@
+me\regos\antihunger\AntiHunger.class
+me\regos\antihunger\commands\HungerToggle.class
+me\regos\antihunger\listeners\HungerChangeEvent.class

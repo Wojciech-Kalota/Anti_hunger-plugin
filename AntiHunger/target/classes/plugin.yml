@@ -1,0 +1,8 @@
+name: AntiHunger
+version: 1.2
+main: me.regos.antihunger.AntiHunger
+api-version: 1.16
+commands:
+  hungertoggle:
+    description: Turn on/off the hunger change event
+    usage: /<command>
